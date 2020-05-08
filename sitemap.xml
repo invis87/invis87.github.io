@@ -18,13 +18,23 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-05-08T13:15:20+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-05-08T13:15:20+03:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2020-05-08T12:48:22+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/personal/</loc>
+    <lastmod>2020-05-08T12:48:22+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-05-08T12:48:22+03:00</lastmod>
   </url>
   
   <url>
