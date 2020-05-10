@@ -8,7 +8,7 @@
   </url>
   
   <url>
-    <loc>/posts/my-second-post/</loc>
+    <loc>/my-second-post/</loc>
     <lastmod>2020-05-08T13:15:20+03:00</lastmod>
   </url>
   
@@ -38,7 +38,27 @@
   </url>
   
   <url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>/tags/logic/</loc>
+    <lastmod>2020-05-08T12:17:26+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/math/</loc>
+    <lastmod>2020-05-08T12:17:26+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/puzzle/</loc>
+    <lastmod>2020-05-08T12:17:26+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/scala/</loc>
+    <lastmod>2020-05-08T12:17:26+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sum-and-product-puzzle-solution/</loc>
     <lastmod>2020-05-08T12:17:26+03:00</lastmod>
   </url>
   
