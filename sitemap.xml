@@ -8,17 +8,17 @@
   </url>
   
   <url>
-    <loc>/tags/rust/</loc>
-    <lastmod>2020-05-10T17:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <lastmod>2020-05-10T17:32:59+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/under-construction/</loc>
+    <loc>/tags/vim/</loc>
+    <lastmod>2020-05-10T17:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/vim-tips/</loc>
     <lastmod>2020-05-10T17:32:59+03:00</lastmod>
   </url>
   

@@ -10,13 +10,26 @@
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>under construction</title>
-            <link>/under-construction/</link>
+            <title>vim tips</title>
+            <link>/vim-tips/</link>
             <pubDate>Sun, 10 May 2020 17:32:59 +0300</pubDate>
             
-            <guid>/under-construction/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
+            <guid>/vim-tips/</guid>
+            <description>Here I will place some vim tips to not to forget.
+Command promt  &amp;lt;ctrl+r&amp;gt;&amp;quot; to paste yanked text to vim command prompt, link &amp;lt;ctl-r&amp;gt;&amp;lt;ctl-w&amp;gt; to paste word under cursor to vim command prompt, link  History  q: to open vim history, it is possible to edit and search there like in normal mode, link   mine vim config</description>
+            <content type="html"><![CDATA[<p>Here I will place some vim tips to not to forget.</p>
+<h2 id="command-promt">Command promt</h2>
+<ol>
+<li><code>&lt;ctrl+r&gt;&quot;</code> to paste yanked text to vim command prompt, <a href="https://stackoverflow.com/questions/906535/how-to-copy-yanked-text-to-vi-command-prompt">link</a></li>
+<li><code>&lt;ctl-r&gt;&lt;ctl-w&gt;</code> to paste word under cursor to vim command prompt, <a href="https://stackoverflow.com/questions/906535/how-to-copy-yanked-text-to-vi-command-prompt">link</a></li>
+</ol>
+<h2 id="history">History</h2>
+<ol>
+<li><code>q:</code> to open vim history, it is possible to edit and search there like in normal mode, <a href="https://stackoverflow.com/questions/906535/how-to-copy-yanked-text-to-vi-command-prompt">link</a></li>
+</ol>
+<hr>
+<p><a href="https://github.com/invis87/configs/blob/master/vim/init.vim">mine vim config</a></p>
+]]></content>
         </item>
         
         <item>
