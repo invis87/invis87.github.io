@@ -16,7 +16,7 @@
             
             <guid>/vim-tips/</guid>
             <description>Here I will place some vim tips to not to forget.
-Command promt  &amp;lt;ctrl+r&amp;gt;&amp;quot; to paste yanked text to vim command prompt, link &amp;lt;ctl-r&amp;gt;&amp;lt;ctl-w&amp;gt; to paste word under cursor to vim command prompt, link  History  q: to open vim history, it is possible to edit and search there like in normal mode, link   mine vim config</description>
+Command promt  &amp;lt;ctrl+r&amp;gt;&amp;quot; to paste yanked text to vim command prompt, link &amp;lt;ctl-r&amp;gt;&amp;lt;ctl-w&amp;gt; to paste word under cursor to vim command prompt, link  History  q: to open vim history, it is possible to edit and search there like in normal mode, link  Editing  &amp;lt;ctrl+v&amp;gt; + &amp;lt;any_key&amp;gt; will insert &amp;ldquo;value&amp;rdquo; of a key, nice to have when editing vim config file  Folding  za toggle fold under cursor zm increase fold level zo open fold, zO for open all levels move cursor to bracket then press zf% to fold everything inside  link</description>
             <content type="html"><![CDATA[<p>Here I will place some vim tips to not to forget.</p>
 <h2 id="command-promt">Command promt</h2>
 <ol>
@@ -27,6 +27,18 @@ Command promt  &amp;lt;ctrl+r&amp;gt;&amp;quot; to paste yanked text to vim comm
 <ol>
 <li><code>q:</code> to open vim history, it is possible to edit and search there like in normal mode, <a href="https://stackoverflow.com/questions/906535/how-to-copy-yanked-text-to-vi-command-prompt">link</a></li>
 </ol>
+<h2 id="editing">Editing</h2>
+<ol>
+<li><code>&lt;ctrl+v&gt;</code> + <code>&lt;any_key&gt;</code> will insert &ldquo;value&rdquo; of a key, nice to have when editing vim config file</li>
+</ol>
+<h2 id="folding">Folding</h2>
+<ol>
+<li><code>za</code> toggle fold under cursor</li>
+<li><code>zm</code> increase fold level</li>
+<li><code>zo</code> open fold, <code>zO</code> for open all levels</li>
+<li>move cursor to bracket then press <code>zf%</code> to fold everything inside</li>
+</ol>
+<p><a href="https://stackoverflow.com/questions/2362914/fold-function-in-vim">link</a></p>
 <hr>
 <p><a href="https://github.com/invis87/configs/blob/master/vim/init.vim">mine vim config</a></p>
 ]]></content>
