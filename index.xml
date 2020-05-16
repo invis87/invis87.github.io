@@ -19,7 +19,7 @@
       
       <guid>/vim-tips/</guid>
       <description>Here I will place some vim tips to not to forget.
-Command promt  &amp;lt;ctrl+r&amp;gt;&amp;quot; to paste yanked text to vim command prompt, link &amp;lt;ctl-r&amp;gt;&amp;lt;ctl-w&amp;gt; to paste word under cursor to vim command prompt, link  History  q: to open vim history, it is possible to edit and search there like in normal mode, link  Editing  &amp;lt;ctrl+v&amp;gt; + &amp;lt;any_key&amp;gt; will insert &amp;ldquo;value&amp;rdquo; of a key, nice to have when editing vim config file  Folding  za toggle fold under cursor zm increase fold level zo open fold, zO for open all levels move cursor to bracket then press zf% to fold everything inside  link</description>
+Command promt  &amp;lt;ctrl+r&amp;gt;&amp;quot; to paste yanked text to vim command prompt, link &amp;lt;ctl-r&amp;gt;&amp;lt;ctl-w&amp;gt; to paste word under cursor to vim command prompt, link  History  q: to open vim history, it is possible to edit and search there like in normal mode, link  Editing  &amp;lt;ctrl+v&amp;gt; + &amp;lt;any_key&amp;gt; will insert &amp;ldquo;value&amp;rdquo; of a key, nice to have when editing vim config file &amp;lt;ctrl+a&amp;gt;/&amp;lt;ctrl+x&amp;gt; increment/decrement next number on line, works even with hexadecimal, or binary.</description>
     </item>
     
     <item>
