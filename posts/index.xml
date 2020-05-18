@@ -35,6 +35,11 @@ Command promt  &amp;lt;ctrl+r&amp;gt;&amp;quot; to paste yanked text to vim comm
 <pre><code>nnoremap + &lt;C-a&gt;
 nnoremap - &lt;C-x&gt;
 </code></pre><p><a href="https://www.reddit.com/r/vim/comments/gk53u1/just_discovered_ca_and_cx/">link</a></p>
+<h2 id="terminal">Terminal</h2>
+<ol>
+<li><code>:term</code> to start terminal in vim</li>
+<li><code>&lt;ctrl+\&gt;+&lt;ctrl+n&gt;</code> to back to Normal mode from Insert</li>
+</ol>
 <h2 id="folding">Folding</h2>
 <ol>
 <li><code>za</code> toggle fold under cursor</li>
