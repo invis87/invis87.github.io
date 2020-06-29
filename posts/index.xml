@@ -16,7 +16,7 @@
             
             <guid>/vim-tips/</guid>
             <description>Here I will place some vim tips to not to forget.
-Command promt  &amp;lt;ctrl+r&amp;gt;&amp;quot; to paste yanked text to vim command prompt, link &amp;lt;ctl-r&amp;gt;&amp;lt;ctl-w&amp;gt; to paste word under cursor to vim command prompt, link  History  q: to open vim history, it is possible to edit and search there like in normal mode, link  Editing  &amp;lt;ctrl+v&amp;gt; + &amp;lt;any_key&amp;gt; will insert &amp;ldquo;value&amp;rdquo; of a key, nice to have when editing vim config file &amp;lt;ctrl+a&amp;gt;/&amp;lt;ctrl+x&amp;gt; increment/decrement next number on line, works even with hexadecimal, or binary.</description>
+Command promt  &amp;lt;ctrl+r&amp;gt;&amp;quot; to paste yanked text to vim command prompt, link &amp;lt;ctl-r&amp;gt;&amp;lt;ctl-w&amp;gt; to paste word under cursor to vim command prompt, link  History  q: to open vim history, it is possible to edit and search there like in normal mode, link  Moving  zt puts current line to top of screen, zz center, zb buttom, link  Editing  &amp;lt;ctrl+v&amp;gt; + &amp;lt;any_key&amp;gt; will insert &amp;ldquo;value&amp;rdquo; of a key, nice to have when editing vim config file &amp;lt;ctrl+a&amp;gt;/&amp;lt;ctrl+x&amp;gt; increment/decrement next number on line, works even with hexadecimal, or binary.</description>
             <content type="html"><![CDATA[<p>Here I will place some vim tips to not to forget.</p>
 <h2 id="command-promt">Command promt</h2>
 <ol>
@@ -26,6 +26,10 @@ Command promt  &amp;lt;ctrl+r&amp;gt;&amp;quot; to paste yanked text to vim comm
 <h2 id="history">History</h2>
 <ol>
 <li><code>q:</code> to open vim history, it is possible to edit and search there like in normal mode, <a href="https://stackoverflow.com/questions/906535/how-to-copy-yanked-text-to-vi-command-prompt">link</a></li>
+</ol>
+<h2 id="moving">Moving</h2>
+<ol>
+<li><code>zt</code> puts current line to top of screen, <code>zz</code> center, <code>zb</code> buttom, <a href="https://unix.stackexchange.com/questions/110251/how-to-put-current-line-at-top-center-bottom-of-screen-in-vim">link</a></li>
 </ol>
 <h2 id="editing">Editing</h2>
 <ol>
@@ -51,6 +55,8 @@ nnoremap - &lt;C-x&gt;
 <h2 id="sessions">Sessions</h2>
 <p><code>:mksession {filename}.vim</code> will save vim session to a file which can be restored later with <code>vim -S {filename}.vim</code></p>
 <p><a href="https://www.youtube.com/watch?v=B-EPvfxcgl0">link</a></p>
+<h2 id="other">Other</h2>
+<p><a href="https://simianwesthighlandterrier.htmlpasta.com/">all vim tips</a></p>
 <hr>
 <p><a href="https://github.com/invis87/configs/blob/master/vim/init.vim">mine vim config</a></p>
 ]]></content>
